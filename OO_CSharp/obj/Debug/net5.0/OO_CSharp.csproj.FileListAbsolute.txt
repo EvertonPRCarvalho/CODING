@@ -1,0 +1,16 @@
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\OO_CSharp\obj\Debug\net5.0\OO_CSharp.csproj.AssemblyReference.cache
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\OO_CSharp\obj\Debug\net5.0\OO_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\OO_CSharp\obj\Debug\net5.0\OO_CSharp.AssemblyInfoInputs.cache
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\OO_CSharp\obj\Debug\net5.0\OO_CSharp.AssemblyInfo.cs
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\OO_CSharp\obj\Debug\net5.0\OO_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\OO_CSharp\bin\Debug\net5.0\OO_CSharp.exe
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\OO_CSharp\bin\Debug\net5.0\OO_CSharp.deps.json
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\OO_CSharp\bin\Debug\net5.0\OO_CSharp.runtimeconfig.json
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\OO_CSharp\bin\Debug\net5.0\OO_CSharp.runtimeconfig.dev.json
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\OO_CSharp\bin\Debug\net5.0\OO_CSharp.dll
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\OO_CSharp\bin\Debug\net5.0\OO_CSharp.pdb
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\OO_CSharp\obj\Debug\net5.0\OO_CSharp.dll
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\OO_CSharp\obj\Debug\net5.0\refint\OO_CSharp.dll
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\OO_CSharp\obj\Debug\net5.0\OO_CSharp.pdb
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\OO_CSharp\obj\Debug\net5.0\OO_CSharp.genruntimeconfig.cache
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\OO_CSharp\obj\Debug\net5.0\ref\OO_CSharp.dll
