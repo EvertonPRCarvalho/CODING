@@ -1,0 +1,16 @@
+D:\FACSENAC\2022.1\CODINGII\CSHARP\aula01_dotnet\bin\Debug\net5.0\aula01_dotnet.exe
+D:\FACSENAC\2022.1\CODINGII\CSHARP\aula01_dotnet\bin\Debug\net5.0\aula01_dotnet.deps.json
+D:\FACSENAC\2022.1\CODINGII\CSHARP\aula01_dotnet\bin\Debug\net5.0\aula01_dotnet.runtimeconfig.json
+D:\FACSENAC\2022.1\CODINGII\CSHARP\aula01_dotnet\bin\Debug\net5.0\aula01_dotnet.runtimeconfig.dev.json
+D:\FACSENAC\2022.1\CODINGII\CSHARP\aula01_dotnet\bin\Debug\net5.0\aula01_dotnet.dll
+D:\FACSENAC\2022.1\CODINGII\CSHARP\aula01_dotnet\bin\Debug\net5.0\aula01_dotnet.pdb
+D:\FACSENAC\2022.1\CODINGII\CSHARP\aula01_dotnet\obj\Debug\net5.0\aula01_dotnet.csproj.AssemblyReference.cache
+D:\FACSENAC\2022.1\CODINGII\CSHARP\aula01_dotnet\obj\Debug\net5.0\aula01_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACSENAC\2022.1\CODINGII\CSHARP\aula01_dotnet\obj\Debug\net5.0\aula01_dotnet.AssemblyInfoInputs.cache
+D:\FACSENAC\2022.1\CODINGII\CSHARP\aula01_dotnet\obj\Debug\net5.0\aula01_dotnet.AssemblyInfo.cs
+D:\FACSENAC\2022.1\CODINGII\CSHARP\aula01_dotnet\obj\Debug\net5.0\aula01_dotnet.csproj.CoreCompileInputs.cache
+D:\FACSENAC\2022.1\CODINGII\CSHARP\aula01_dotnet\obj\Debug\net5.0\aula01_dotnet.dll
+D:\FACSENAC\2022.1\CODINGII\CSHARP\aula01_dotnet\obj\Debug\net5.0\refint\aula01_dotnet.dll
+D:\FACSENAC\2022.1\CODINGII\CSHARP\aula01_dotnet\obj\Debug\net5.0\aula01_dotnet.pdb
+D:\FACSENAC\2022.1\CODINGII\CSHARP\aula01_dotnet\obj\Debug\net5.0\aula01_dotnet.genruntimeconfig.cache
+D:\FACSENAC\2022.1\CODINGII\CSHARP\aula01_dotnet\obj\Debug\net5.0\ref\aula01_dotnet.dll

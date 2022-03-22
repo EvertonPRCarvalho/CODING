@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HeYGuKDUuSTOEzhXn9l0AfNYoBTmaD6aDauYyPleKQsXsHwMicT5m+1B9xRG8NJh15A4j+aDRj0fa+I1Y+5/Cg==",
+  "success": true,
+  "projectFilePath": "D:\\FACSENAC\\2022.1\\CODINGII\\CSHARP\\aula01_dotnet\\aula01_dotnet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evert\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
