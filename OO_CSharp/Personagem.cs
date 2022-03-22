@@ -1,20 +1,10 @@
 using System;
 
-/*
-[ ] NOME
-[ ] ID
-[ ] VIDA
-[ ] XP
-[ ] ANDAR
-[ ] CORRER
-[ ] PARAR
-[ ] HABILIDADE
-*/
 
 public class Personagem
 {
     private String nome;
-    //private int id;
+    private int id;
     private int vida;
     private int xp;
     private bool parar = true;
@@ -23,6 +13,7 @@ public class Personagem
     private readonly string[] habilidade = new string[5];
     public int indece = 0;
 
+    //MÉTODOS GET'S E SET
     public void Set_nome(String novo_nome) 
     {
         nome = novo_nome;
@@ -30,6 +21,14 @@ public class Personagem
     public String Get_nome()
     {
         return nome;
+    }
+    public void Set_id(int novo_id)
+    {
+        id = novo_id;
+    }
+    public int Get_id()
+    {
+        return id;
     }
 
     public void Set_vida(int novo_vida)
@@ -122,7 +121,20 @@ class Jogo : Personagem
 
     static void Main()
     {
-        Personagem personagem1 = new Personagem();
+        /*
+        
+        [ x ] NOME
+        [ x ] ID
+        [ x ] VIDA
+        [ x ] XP
+        [ x ] ANDAR
+        [ x ] CORRER
+        [ x ] PARAR
+        [ x ] HABILIDADE
+
+        */
+        Personagem personagem1 = new();
+        personagem1.Set_id(1);
         personagem1.Set_nome("Everton");
         personagem1.Set_xp(1);
         personagem1.Set_vida(100);
@@ -131,10 +143,29 @@ class Jogo : Personagem
         personagem1.Set_andar(false);
 
         Console.WriteLine("Nome: " + personagem1.Get_nome());
-        Console.WriteLine("XP: " + personagem1.Get_xp());
-        Console.WriteLine("Vida: " + personagem1.Get_vida());
+        Console.WriteLine("ID: " + personagem1.Get_id());
+        Console.WriteLine("XP: * " + personagem1.Get_xp());
+        Console.WriteLine("[==========]: " + personagem1.Get_vida());
         Console.WriteLine("Habilidade: " + personagem1.Get_habilidade(0));
+        Console.WriteLine("Parado: " + personagem1.Get_parar());
         Console.WriteLine("Andar: " + personagem1.Get_andar());
+        Console.WriteLine("----------ANDANDO----------");
+
+        personagem1.Set_parar(false);
+        personagem1.Set_andar(true);
+
+        Console.WriteLine("Parado: " + personagem1.Get_parar());
+        Console.WriteLine("Andar: " + personagem1.Get_andar());
+
+        Console.WriteLine("----------PERDENDO VIDA----------");
+
+        personagem1.Set_vida(80);
+        Console.WriteLine("[========  ]: " + personagem1.Get_vida());
+
+        Console.WriteLine("---------GANHANDO XP---------");
+        personagem1.Set_xp(5);
+        Console.WriteLine("XP: ***** " + personagem1.Get_xp());
+
 
     }
 
