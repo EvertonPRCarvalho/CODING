@@ -1,0 +1,16 @@
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Arcondicionado1\Arcondicionado1\obj\Debug\net5.0\Arcondicionado1.csproj.AssemblyReference.cache
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Arcondicionado1\Arcondicionado1\obj\Debug\net5.0\Arcondicionado1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Arcondicionado1\Arcondicionado1\obj\Debug\net5.0\Arcondicionado1.AssemblyInfoInputs.cache
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Arcondicionado1\Arcondicionado1\obj\Debug\net5.0\Arcondicionado1.AssemblyInfo.cs
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Arcondicionado1\Arcondicionado1\obj\Debug\net5.0\Arcondicionado1.csproj.CoreCompileInputs.cache
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Arcondicionado1\Arcondicionado1\bin\Debug\net5.0\Arcondicionado1.exe
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Arcondicionado1\Arcondicionado1\bin\Debug\net5.0\Arcondicionado1.deps.json
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Arcondicionado1\Arcondicionado1\bin\Debug\net5.0\Arcondicionado1.runtimeconfig.json
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Arcondicionado1\Arcondicionado1\bin\Debug\net5.0\Arcondicionado1.runtimeconfig.dev.json
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Arcondicionado1\Arcondicionado1\bin\Debug\net5.0\Arcondicionado1.dll
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Arcondicionado1\Arcondicionado1\bin\Debug\net5.0\Arcondicionado1.pdb
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Arcondicionado1\Arcondicionado1\obj\Debug\net5.0\Arcondicionado1.dll
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Arcondicionado1\Arcondicionado1\obj\Debug\net5.0\refint\Arcondicionado1.dll
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Arcondicionado1\Arcondicionado1\obj\Debug\net5.0\Arcondicionado1.pdb
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Arcondicionado1\Arcondicionado1\obj\Debug\net5.0\Arcondicionado1.genruntimeconfig.cache
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Arcondicionado1\Arcondicionado1\obj\Debug\net5.0\ref\Arcondicionado1.dll

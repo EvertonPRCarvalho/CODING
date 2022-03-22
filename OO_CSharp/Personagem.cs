@@ -13,7 +13,7 @@ public class Personagem
     private readonly string[] habilidade = new string[5];
     public int indece = 0;
 
-    //MÉTODOS GET'S E SET
+    //MÉTODOS GETs E SETs PARA CONSULTA E MANIPULAÇÃO DOS ATRIBUTOS 
     public void Set_nome(String novo_nome) 
     {
         nome = novo_nome;
@@ -87,12 +87,14 @@ public class Personagem
 
   
 }
-
+//A CLASSE JOGO CONTÉM A LÓGICA DO PROGRAMA, OU SEJA, OS MÉTODOOS DA CLASSE PERSONAGEM
+//SERÃO UTILIZADOS AQUI COM BASE NA LÓGICA DO PRODUTO (NESTE CASO, DO JOGO).
 class Jogo : Personagem
 {
     Personagem personagem1 = new Personagem();
     
     public void Parar()
+        //O MÉTODO Parar GARANTE QUE O PERSONAGEM PARE, SE ESTIVER ANDANDO OU CORRENDO
     {
        if (personagem1.Get_parar() == false)
         {
@@ -101,6 +103,7 @@ class Jogo : Personagem
         }
     }
     public void Andar()
+        //O MÉTODO Andar GARANTE QUE O PERSONAGEM ANDE APENAS SE NÃO ESTIVER PARADO
     {
         if (personagem1.Get_parar() == true)
         {
@@ -117,7 +120,6 @@ class Jogo : Personagem
     }
   
     
-
 
     static void Main()
     {

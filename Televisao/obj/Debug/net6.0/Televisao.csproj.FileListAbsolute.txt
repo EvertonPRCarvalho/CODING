@@ -1,0 +1,15 @@
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Televisao\bin\Debug\net6.0\Televisao.exe
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Televisao\bin\Debug\net6.0\Televisao.deps.json
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Televisao\bin\Debug\net6.0\Televisao.runtimeconfig.json
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Televisao\bin\Debug\net6.0\Televisao.dll
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Televisao\bin\Debug\net6.0\Televisao.pdb
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Televisao\obj\Debug\net6.0\Televisao.csproj.AssemblyReference.cache
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Televisao\obj\Debug\net6.0\Televisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Televisao\obj\Debug\net6.0\Televisao.AssemblyInfoInputs.cache
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Televisao\obj\Debug\net6.0\Televisao.AssemblyInfo.cs
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Televisao\obj\Debug\net6.0\Televisao.csproj.CoreCompileInputs.cache
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Televisao\obj\Debug\net6.0\Televisao.dll
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Televisao\obj\Debug\net6.0\refint\Televisao.dll
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Televisao\obj\Debug\net6.0\Televisao.pdb
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Televisao\obj\Debug\net6.0\Televisao.genruntimeconfig.cache
+C:\Users\evert\OneDrive\Documentos\GitHub\CODING\Televisao\obj\Debug\net6.0\ref\Televisao.dll
